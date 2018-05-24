@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borsche.Radio.CommonLibrary", "Borsche.Radio.CommonLibrary\Borsche.Radio.CommonLibrary.csproj", "{4D1F9483-730D-4724-9EE1-841F47E3A891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D1F9483-730D-4724-9EE1-841F47E3A891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1F9483-730D-4724-9EE1-841F47E3A891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1F9483-730D-4724-9EE1-841F47E3A891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1F9483-730D-4724-9EE1-841F47E3A891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {695AE25D-EA8E-4BC5-983E-2564B67B1697}
+	EndGlobalSection
+EndGlobal
